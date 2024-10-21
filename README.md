@@ -41,6 +41,12 @@
 
 <!-- branching -->
 
-==> git branch branchname
+==> git branch branchname  [to create a branch]
+
+==> git checkout branchname [to switch the branch]
+
+==> git branch [it's for listing all the branches]
+
+==> git checkout -b branchname [it's for creationg and switched to created branch in single command]
 
 
